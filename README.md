@@ -24,9 +24,9 @@ I build machine-learning systems that run in production: forecast-based anomaly 
 
 ### Toolkit
 
-**Languages:** Python, SQL, PySpark, R, C++
-**ML and AI:** scikit-learn, XGBoost, PyTorch, Hugging Face, CrewAI
-**Data and MLOps:** Databricks, Azure Data Factory, PostgreSQL, Docker, Kubernetes, FastAPI, Azure DevOps
+- **Languages:** Python, SQL, PySpark, R, C++
+- **ML and AI:** scikit-learn, XGBoost, PyTorch, Hugging Face, CrewAI
+- **Data and MLOps:** Databricks, Azure Data Factory, PostgreSQL, Docker, Kubernetes, FastAPI, Azure DevOps
 
 ### Background
 
